@@ -23,3 +23,9 @@ Rewards: 26Mar2009(thur), 27Mar2009(fri), 28Mar2009(sat)
 OUTPUT 3:
 Ridgewood 
 
+#Installation 
+copy and paste homeworks-master folder on to your local machine
+-you can put it in to www folder and give it a spin on your browser
+eg http://localhost/homeworks-master/
+
+
